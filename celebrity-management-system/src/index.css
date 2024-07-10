@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Comic Sans MS', 'Comic Sans', 'Arial', 'Verdana', 'Tahoma', 'Trebuchet MS', 'Georgia', 'Times New Roman', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Courier New', 'Courier', 'Lucida Console', 'Monaco', monospace;
+}
+
